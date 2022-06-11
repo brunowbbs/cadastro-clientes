@@ -1,1 +1,7 @@
 printf("Ola Usuário")
+
+
+printf("Ola usuario 2")
+
+
+printf("Implementação de banco de dados")
